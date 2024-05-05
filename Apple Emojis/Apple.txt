@@ -1,0 +1,20 @@
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/ThemeDevBadge.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/spritesheets.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/people.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/nature.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/food.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/activity.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/travel.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/objects.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/symbols.css);
+@import url(https://raw.githubusercontent.com/mazeymoos0022/Personal/main/Apple%20Emojis/flags.css);
+@namespace xlink 'http://www.w3.org/1999/xlink';
+.sprite__294b3 {
+	-webkit-mask: none !important;
+	background-color: transparent !important;
+	background-position: var(--custom-emoji-sprite-bg-position) !important;
+	background-size: var(--custom-emoji-sprite-bg-size) !important;
+}
+.spriteGreyscale__750f4 {
+	filter: grayscale(1) !important;
+}
